@@ -9,8 +9,8 @@ const GUEST_LOGINS = {
   },
 };
 
-const API_BASE_URL = "https://gc.silvanstuber.ch/api/";
-const STATIC_BASE_URL = "https://gc.silvanstuber.ch";
+const API_BASE_URL = "https://gc.silvanstuber.ch/coderr_backend/api/";
+const STATIC_BASE_URL = "https://gc.silvanstuber.ch/coderr_backend";
 
 const LOGIN_URL = "login/";
 
